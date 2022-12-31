@@ -1,7 +1,6 @@
 [[redirects]]
 from = "/order"
 to = "https://hop.clickbank.net/?affiliate=alpilean02&vendor=alpilean&tid=invalid"
-status = 301
 force = true
 
 [[redirects]]
